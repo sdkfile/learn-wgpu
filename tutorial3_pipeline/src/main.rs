@@ -1,4 +1,4 @@
-use tutorial2_surface::run;
+use tutorial3_pipeline::run;
 
 fn main() {
     pollster::block_on(run());
